@@ -9,6 +9,10 @@ Different examples
 
 ## Purpose
 
+Adding purpose text
+
 ## Deployment
+
+Adding some more info
 
 ## How To Contribute
