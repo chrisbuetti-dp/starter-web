@@ -15,4 +15,8 @@ Adding purpose text
 
 Adding some more info
 
-## How To Contribute
+## How To Contribut
+
+#### Coptright
+
+204 Git.Training
