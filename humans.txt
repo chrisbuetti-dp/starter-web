@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Chris Buetti crb4595@gmail.com @chrisbuetti>
 
 # THANKS
 
