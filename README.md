@@ -17,6 +17,8 @@ Adding some more info
 
 ## How To Contribut
 
+Fork this repo and issue PRs for review
+
 #### Coptright
 
 204 Git.Training
