@@ -1,6 +1,6 @@
 # Starter Web Project
 
-This is a simple website project for git tutorial. Adding a line for rebasing example
+This is a simple website project for git tutorial. Adding a line for rebasing example/ Another
 
 ## Introduction
 
